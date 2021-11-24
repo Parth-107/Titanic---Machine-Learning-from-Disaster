@@ -11,4 +11,4 @@ However, We can't judge the model's accuracy on a single validation, so I have t
 
 According to this image the GradientBoostingClassifier is works well, but on this algorithm the total 50 Cross validation I have applied, and on CatBoost I have applied just 10 Cross Validation. 
 
-Hence, at the end I have decieded to use CatBoost algoritm, and interestingly, the model's prediction was 80.78%. (https://www.kaggle.com/parth7878/competitions)
+Hence, at the end I have decided to use CatBoost algoritm, and interestingly, the model's prediction was 80.78%. (https://www.kaggle.com/parth7878/competitions)
